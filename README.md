@@ -4,7 +4,7 @@ Department of Computer Science, University of Pisa, Italy
 
 IEEEBigData 2023, 15-18 December, Sorrento, Italy
 
-## ⬇️ Download the slides of the presentation
+## ⬇️ [Download the slides of the presentation](https://github.com/iretes/Comparison-of-Machine-Learning-Classifiers-on-Transcriptomic-data/blob/main/slides.pdf)
 
 ## 📂 [Visit the code repository](https://github.com/iretes/GEO-classification)
 
